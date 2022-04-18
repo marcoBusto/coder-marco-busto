@@ -101,6 +101,7 @@ body{
     height: auto;
     width: 80%;
 }
+
 /*pie de página*/
 #pie{
     grid-area: footer;
