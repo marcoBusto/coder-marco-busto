@@ -81,6 +81,9 @@ body{
     padding: 20px;
     border-radius: 5% 5% 5% 5%;
 }
+#menu span{
+    background-image:url('../img/navigation.png');
+}
  
 
 /*contenido */
@@ -170,13 +173,11 @@ body{
             flex-direction: row;
             margin-top: 8%;
             width: 100%;
-            height: 70%;
+            height: 90%;
             background: rgba(241, 238, 238, 0.2);  
             transition: all 1s;         
          }
          #menu ul{ 
-             display: flex;
-             flex-direction: row;
              list-style: none;
              
              }
@@ -197,6 +198,9 @@ body{
             padding: 15px 15px 30px 10px;
             padding: 5px;
             border-radius: 5% 5% 5% 5%;
+        }
+        #menu span{
+            background-image:url('../img/navigation.png');
         }
          
         
