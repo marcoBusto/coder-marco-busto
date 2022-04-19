@@ -91,8 +91,7 @@ body{
     grid-area: contenidos;
     float: left;
     color: whitesmoke;
-    margin-top: 5%;
-    margin-left: 2%;
+    margin: 5% 5% 5% 5%;
 }
 #contenidos img{
     height: 75%;
@@ -209,7 +208,8 @@ body{
             grid-area: contenidos;
             float: left;
             color: whitesmoke;
-            margin-top: 5%;
+            margin: 10% 10% 10% 3%;
+            
             
         }
         #contenidos img{
